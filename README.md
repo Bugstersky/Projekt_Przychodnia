@@ -3,8 +3,6 @@ Patient-registartion MVC C# 👨‍⚕️💉
 
 ## General info
 Non-comercial app using MVC . 
-
-## Ratunku app
 The main purpose of this project was to create an application for registration at the clinic .
 
 ## UI
