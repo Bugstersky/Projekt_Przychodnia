@@ -6,8 +6,6 @@ Non-comercial app using MVC .
 
 ## Ratunku app
 The main purpose of this project was to create an application for registration at the clinic .
-* Below short video that shows this app :\
-![Presentation](https://user-images.githubusercontent.com/98978049/153300253-27146a77-94d2-4845-878f-37dd0aa4207d.mp4)
 
 ## UI
 Few pictures of this project: 
