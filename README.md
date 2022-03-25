@@ -2,7 +2,7 @@
 Patient-registartion MVC C# 👨‍⚕️💉
 
 ## General info
-Non-comercial app using MVC . 
+Non-commercial application using MVC as a project for studies.
 The main purpose of this project was to create an application for registration at the clinic .
 
 ## UI
