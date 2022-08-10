@@ -1,4 +1,4 @@
-# Projekt_Przychodnia_TsWM
+# Projekt_Przychodnia
 Patient-registartion MVC C# 👨‍⚕️💉
 
 ## General info
